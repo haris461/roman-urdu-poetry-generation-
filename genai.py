@@ -44,7 +44,7 @@ def generate_poetry(seed_text, next_words=10, temperature=1.0):
     return seed_text
 
 # Streamlit UI
-st.title("Roman Urdu Poetry Generator 🎤✨")
+st.title(" SherAI – A blend of "Sher"  Roman Urdu Poetry Generator 🎤✨")
 st.write("Enter a phrase, and the AI will generate poetry in Roman Urdu.")
 
 # User input for starting phrase
